@@ -1,0 +1,56 @@
+p.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+p.song{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+p.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.direction:hover{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: medium;
+     color: yellow;
+     background-color: brown;
+}
+h6.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:black ;
+}
+.WILFRED{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:darkgreen;
+    background-color:azure;
+   
+}
+.WILFRED:hover{
+
+   font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:darkred;
+    background-color:darkgray;
+    text-shadow:2px 2px 2px  mintcream ;
+}
+
+.PHOEBE{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:darkgoldenrod;
+    background-color:aliceblue;
+   
+}
+.PHOEBE:hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:darkmagenta;
+    background-color:cornflowerblue;
+    text-shadow:2px 2px 2px  ivory;
+}
