@@ -54,3 +54,12 @@ h6.name{
     background-color:cornflowerblue;
     text-shadow:2px 2px 2px  ivory;
 }
+.table{
+    border: 5px;
+    border-style: dashed;
+    color: red;
+    text-align: center;
+    background-color: yellow;
+    padding: 4px;
+    margin: 1px;
+}
